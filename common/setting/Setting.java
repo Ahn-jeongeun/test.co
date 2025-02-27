@@ -1,0 +1,3 @@
+class Setting{
+	//설정...
+}
